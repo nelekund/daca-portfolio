@@ -29,7 +29,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
  
 ## Kontaktc
  
-- **GitHub:** [github.com/sinu-username](https://github.com/nelekund)
+- **GitHub:** [github.com/nelekund](https://github.com/nelekund)
 - **Email:** kundnele@gmail.com
 
 
