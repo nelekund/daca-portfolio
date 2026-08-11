@@ -1,17 +1,12 @@
-DACA portfoolio -- Nele Kund
+# DACA Portfoolio -- Nele Kund
 
-Minust
-
+## Minust
 Olen tehnilise kõrgharidusega spetsialist, kelle soov on suunata oma karjäär analüütilisemasse valdkonda. DACA programmiga liitusin eelkõige selleks, et omandada praktilist kogemust andmete analüüsimisel, kuna oskus teha andmepõhiseid otsuseid on oluline pea kõikides töövaldkondades.
 
-
-Eesmärk
-
+## Eesmärk
 Õppida andmeanalüüsi -- SQL, Python, visualiseerimine -- ja ehitada professionaalne portfoolio.
 
-
-Nädala kaupa
-
+## Nädala kaupa
 | Nädal | Teema | Staatus |
 |-------|-------|---------|
 | 0 | Onboarding | Käimas |
