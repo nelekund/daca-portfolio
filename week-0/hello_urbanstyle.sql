@@ -15,6 +15,9 @@ INSERT INTO team_members (name, role, week) VALUES
 
 SELECT * FROM team_members ORDER BY joined_at;
 
+DELETE FROM team_members
+WHERE id IN (14, 15);
 
+SELECT * FROM team_members ORDER BY joined_at;
 
 
