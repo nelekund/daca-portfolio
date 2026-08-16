@@ -1,8 +1,8 @@
 # DACA Portfoolio
  
 **Programm:** Data Analyst Career Accelerator (DACA)
-**Osaleja:** [Nele Kund]
-**Algus:** [11.08.2026]
+**Osaleja:** Nele Kund
+**Algus:** 11.08.2026
  
 ## Kirjeldus
  
