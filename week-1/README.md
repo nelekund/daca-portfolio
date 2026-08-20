@@ -1,10 +1,9 @@
 # Nädal 1: SQL Basics
-
-# 📊 Sales Data Explorer
+## 📊 Sales Data Explorer
 
 **Meeskond:** Sales Analytics  
 **Roll:** A – Sales Data Explorer  
-**Andmeallikas:** 'sales' tabel (Supabase)
+**Andmeallikas:** ´sales tabel´ (Supabase)
 
 ---
 
@@ -17,6 +16,8 @@
 | Suurim tehing | 2 170,40 |
 | Väikseim tehing | -1 405,32 |
 | Puuduv kliendiinfo | 1 487 (~9,76%) |
+
+**Veerud:**  ´id´ · ´sale_id´ · ´invoice_id´ · ´sale_date´ · ´customer_id´ · ´product_id´ · ´quantity´ · ´unit_price´ · ´total_price´ · ´channel´ · ´store_location´ · ´payment_method´
 
 ## 🔎 Mis oli üllatav?
 
