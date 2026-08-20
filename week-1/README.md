@@ -3,7 +3,7 @@
 # 📊 Sales Data Explorer
 
 **Meeskond:** Sales Analytics  
-**Roll:** A — Sales Data Explorer  
+**Roll:** A – Sales Data Explorer  
 **Andmeallikas:** 'sales' tabel (Supabase)
 
 ---
