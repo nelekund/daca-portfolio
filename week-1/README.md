@@ -17,7 +17,10 @@
 | Väikseim tehing | -1 405,32 |
 | Puuduv kliendiinfo | 1 487 (~9,76%) |
 
-**Veerud:**  ´id´ · ´sale_id´ · ´invoice_id´ · ´sale_date´ · ´customer_id´ · ´product_id´ · ´quantity´ · ´unit_price´ · ´total_price´ · ´channel´ · ´store_location´ · ´payment_method´
+**Veerud (12):**  
+`id` · `sale_id` · `invoice_id` · `sale_date`  
+`customer_id` · `product_id` · `quantity` · `unit_price`  
+`total_price` · `channel` · `store_location` · `payment_method`
 
 ## 🔎 Mis oli üllatav?
 
