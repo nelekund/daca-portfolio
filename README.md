@@ -13,6 +13,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 ### Week 0: Onboarding
 - GitHub seadistamine ✅
 - Supabase seadistamine ✅
+- Notebook seadistamine ✅
  
 ### Week 1: SQL Põhitõed
 - (tulemas...)
