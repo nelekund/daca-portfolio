@@ -3,7 +3,7 @@
 
 **Meeskond:** Sales Analytics  
 **Roll:** A – Sales Data Explorer  
-**Andmeallikas:** ´sales tabel´ (Supabase)
+**Andmeallikas:** ´sales tabel´ (Supabase)  
 **Link grupitööle:** [GitHub Sales Analytics](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/README.md)
 
 ---
