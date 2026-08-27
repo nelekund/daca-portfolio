@@ -4,7 +4,7 @@
 
 **Meeskond:** Sales Analytics    
 **Roll:** B – Customer Data Cleaner  
-**Andmeallikas:** ´customers_test´ tabel (Supabase)   
+**Andmeallikas:** ´customers´ tabel (Supabase)   
 **Link grupitööle:** [GitHub Sales Analytics Week 2](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week2/README.md)  
 
 ### 📝 Puhastamisraport
