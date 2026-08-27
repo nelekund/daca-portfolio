@@ -1,4 +1,4 @@
-# 📝 Puhastamisraport
+## 📝 Puhastamisraport
 
 | Kategooria | Leitud probleeme |
 | :--- | ---: |
@@ -9,7 +9,7 @@
 | Puuduv perenimi | 0 |
 | **KOKKU** | **520** |
 
-# 💡 Järeldus ja soovitus
+## 💡 Järeldus ja soovitus
 
 Selgitada välja **puuduvate e-mailide põhjused** ja võimalusel **täiendada kontaktandmeid**, sest:
 
