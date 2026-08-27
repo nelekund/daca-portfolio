@@ -16,7 +16,7 @@ SELECT COUNT(*) AS ridade_arv FROM customers_test;
 SELECT email, COUNT(*) AS koopiate_arv
 FROM customers_test
 WHERE email IS NOT NULL
-AND email <> ''
+AND email != ''
 GROUP BY email
 HAVING COUNT(*) > 1
 ORDER BY koopiate_arv DESC;
@@ -28,7 +28,7 @@ FROM (
   SELECT email, COUNT(*) AS koopiate_arv
   FROM customers_test
   WHERE email IS NOT NULL
-  AND email <> ''
+  AND email != ''
   GROUP BY email
   HAVING COUNT(*) > 1
   ) AS duplikaadid;
@@ -87,3 +87,51 @@ SELECT
     COUNT(*) FILTER (WHERE email IS NULL OR email = '') AS null_email
 FROM customers_test;
 -- 0 puuduvat telefoninumbrit, 380 puuduvat e-maili.
+
+
+
+-- Cleaning --
+
+-- 6. Asenda NULL nimed
+
+UPDATE customers_test
+SET first_name = 'Tundmatu'
+WHERE first_name IS NULL OR first_name = '';
+
+SELECT * FROM customers_test
+WHERE first_name = 'Tundmatu';
+-- Tundmatud nimed puuduvad.
+
+-- 7. Ühtlusta linnanimed INITCAP + TRIM abil
+
+UPDATE customers_test
+SET city = INITCAP(TRIM(city))
+WHERE city != INITCAP(TRIM(city));
+
+-- 7.1 Tulemuste kontroll
+
+SELECT city, COUNT(*) AS arv 
+FROM customers_test
+GROUP BY city
+ORDER BY city;
+-- 12 erinevat linna
+
+-- 8. Standardiseeri e-mailid väiketähtedeks
+
+UPDATE customers_test
+SET email = LOWER(TRIM(email))
+WHERE email != LOWER(TRIM(email));
+
+-- 9. Näide: standardiseeri telefoninumbrid (CASE WHEN)
+
+SELECT phone,
+    CASE
+        WHEN phone LIKE '+372%' THEN phone
+        WHEN phone LIKE '372%' THEN '+' || phone
+        WHEN LENGTH(phone) = 7 THEN '+372' || phone
+        ELSE phone
+    END AS standardne_telefon
+FROM customers_test
+WHERE phone IS NOT NULL
+LIMIT 10;
+
