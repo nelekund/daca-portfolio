@@ -1,5 +1,7 @@
 # Nädal 3: SQL JOINs
 
+## 📝 Ülesanne: Aidata vastata Urbanstyle ettevõtte ärilistele küsimustele, mis nõuavad mitme andmetabeli omavahel ühendamist.
+
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics    
 **Roll:** C – Müümata toodete ja inventuuri analüüs   
