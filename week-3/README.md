@@ -4,6 +4,7 @@
 **Meeskond:** Sales Analytics    
 **Roll:** C – Müümata toodete ja inventuuri analüüs   
 **Andmeallikad:** `products` , `sales`, `inventory` tabelid (Supabase)
+**Link grupitööle:** [GitHub Sales Analytics Week 3](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week3/README.md)  
 
 ### 📁 Individuaalne töö
 
