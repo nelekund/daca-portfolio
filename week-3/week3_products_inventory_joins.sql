@@ -25,7 +25,7 @@ FROM products p
 LEFT JOIN sales s ON p.product_id = s.product_id
 WHERE s.sale_id IS NULL;    
 
--- 4. Leia enim müüdud tooted
+-- 3. Leia enim müüdud tooted
 
 SELECT
  p.product_name,
@@ -39,7 +39,7 @@ GROUP BY p.product_id, p.product_name, p.category, p.subcategory
 ORDER BY kogumüük DESC
 LIMIT 10;    
 
---5. Analüüsi kategooriate kaupa tooteid ja müüke
+-- 4. Analüüsi kategooriate kaupa tooteid ja müüke
 
 SELECT
  p.category AS kategooria,
@@ -52,7 +52,7 @@ LEFT JOIN sales s ON p.product_id = s.product_id
 GROUP BY p.category
 ORDER BY müüdud_kogus DESC;
 
--- 6. Ühenda inventuuriga - millised tooted on laos?
+-- 5. Ühenda inventuuriga - millised tooted on laos?
 
 SELECT
  p.product_name,
@@ -69,15 +69,15 @@ FROM products p
 LEFT JOIN inventory i ON p.product_id = i.product_id
 ORDER BY i.quantity_available;    
 
--- Mitu toodet on vaja juurde tellida?
+-- 6. Mitu toodet on vaja juurde tellida?
 
 SELECT
 COUNT(*) AS juurde_tellida
 FROM products p
 INNER JOIN inventory i ON p.product_id = i.product_id
-WHERE i.quantity_available <= i.reorder_point; -- 231 toodet
+WHERE i.quantity_available <= i.reorder_point;
 
--- Tooted, mis on laos, aga pole kunagi müüdud
+-- 7. Tooted, mis on laos, aga pole kunagi müüdud
 
 SELECT
 p.product_name,
@@ -91,7 +91,7 @@ LEFT JOIN inventory i ON p.product_id = i.product_id
 WHERE s.sale_id IS NULL AND i.quantity_available > 0
 ORDER BY kinni_olev_raha DESC;
 
--- Kus asuvad tooted, mida pole kordagi müüdud?
+-- 8. Kus asuvad tooted, mida pole kordagi müüdud?
 
 SELECT
  p.product_id,
