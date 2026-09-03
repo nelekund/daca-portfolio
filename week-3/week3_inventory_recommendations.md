@@ -1,3 +1,6 @@
+## 📦 Inventuuri soovitused
+<br>
+
 ### 🔝 Populaarsus vs kogumüük
 
 | Kategooria | Müüdud kogus (tk) | Kogumüük (€) |
