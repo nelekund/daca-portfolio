@@ -8,5 +8,5 @@
 ### 📁 Individuaalne töö
 
 - [SQL päringud](week3_products_inventory_joins.sql)
-- [Tulemuste screenshotid]
-- [Kokkuvõte ja inventuuri soovitused]
+- [Tulemuste screenshotid](SQL_week3_screenshots/)
+- [Kokkuvõte ja inventuuri soovitused](week3_inventory_recommendations.md)
