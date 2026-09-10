@@ -11,7 +11,7 @@
 - [SQL päringud](week4_sales_aggregation.sql)
 
 
-## ֎🇦🇮 kasutamine
+### ֎🇦🇮 kasutamine
 
 - Kasutasin ChatGPT abi LAG() *window* funktsiooni selgituse ja kasutamisvõimaluste osas.  
 - Lisaks kasutasin AI abi kiiremaks *Markdown* formaadis tabeli genereerimiseks GitHub-i ning esialgselt müügiandmete põhjal tehtud järelduste sõnastuse parandamiseks.
