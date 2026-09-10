@@ -14,6 +14,7 @@
 ## 📌 Tähelepanekud
 
 📈 Aastane käibekasv on **19.1%** (2023 → 2024), mis tähendas lisatulu **+235 599 €** võrreldes 2023. aastaga *(1,23 mln € → 1,47 mln €)*.  
+<br>
 📅 Andmed viitavad hooajalistele käibekõikumistele, mis on sarnased **mõlema aasta puhul**:
 
 - Müügid kasvavad varakevadel, suve alguses ja aasta lõpus   
