@@ -8,6 +8,7 @@
 | **Halvim müügikuu** | Jaanuar (**79 735.03 €**) | Jaanuar (**85 618.65 €**) | **+7.4%** ☃️|
 
 ## 📈 UrbanStyle käibe kasvuprotsendid vahemikus 2023-2024
+<br>
 
 ![Käibe muutus 2023-2024](images/SQL_week4_CTE_window.png) 
 
