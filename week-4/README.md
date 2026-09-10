@@ -9,9 +9,10 @@
 
 ### 📁 Individuaalne töö
 - [SQL päringud](week4_sales_aggregation.sql)
+- [Müügistatistika raport ja kokkuvõte](week4_sales_statistics_report.md)
 
 
 ### ֎🇦🇮 kasutamine
 
 - Kasutasin ChatGPT abi LAG() *window* funktsiooni selgituse ja kasutamisvõimaluste osas.  
-- Lisaks kasutasin AI abi kiiremaks *Markdown* formaadis tabeli genereerimiseks GitHub-i ning esialgselt müügiandmete põhjal tehtud järelduste sõnastuse parandamiseks.
+- Lisaks kasutasin AI-d kiiremaks *Markdown* formaadis tabeli genereerimiseks GitHub-i ning esialgselt müügiandmete põhjal tehtud järelduste sõnastuse parandamiseks.
