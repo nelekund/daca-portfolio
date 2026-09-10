@@ -1,4 +1,4 @@
-## ⚖️ Ettevõtte käibekasvu võrdlus
+# ⚖️ Ettevõtte käibekasvu võrdlus
 <br>
 
 | Näitaja | 2023 | 2024 | Kasvuprotsent (%)|
@@ -7,13 +7,13 @@
 | **Parim müügikuu** | Detsember (**129.1k €**) | Detsember (**170.6k €**) | **+32.2%** 🎄|
 | **Halvim müügikuu** | Jaanuar (**79 735.03 €**) | Jaanuar (**85 618.65 €**) | **+7.4%** ☃️|
 
-## UrbanStyle käibe kasvuprotsendid vahemikus 2023-2024
+## 📈 UrbanStyle käibe kasvuprotsendid vahemikus 2023-2024
 
 ![Käibe muutus 2023-2024](images/SQL_week4_CTE_window.png) 
 
 ## 📌 Tähelepanekud
 
-📈 Aastane käibekasv on **19.1%** (2023 → 2024), mis tähendas lisatulu **+235 599 €** võrreldes 2023. aastaga *(1,23 mln € → 1,47 mln €)*.  
+📊 Aastane käibekasv on **19.1%** (2023 → 2024), mis tähendas lisatulu **+235 599 €** võrreldes 2023. aastaga *(1,23 mln € → 1,47 mln €)*.  
 <br>
 📅 Andmed viitavad hooajalistele käibekõikumistele, mis on sarnased **mõlema aasta puhul**:
 
