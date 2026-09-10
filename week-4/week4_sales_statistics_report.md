@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## 📈 UrbanStyle käibe kasvuprotsendid vahemikus 2023-2024
+## 📈 UrbanStyle'i käibe kasvuprotsendid vahemikus 2023-2024
 <br>
 
 ![Käibe muutus 2023-2024](images/SQL_week4_CTE_window.png) 
