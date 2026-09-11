@@ -19,7 +19,7 @@ ORDER BY kuu;
 
 SELECT
 p.category AS kategooria,
-COUNT(p.product_id) AS toodete_arv,
+COUNT(DISTINCT p.product_id) AS toodete_arv,
 SUM(s.total_price) AS kogukäive,
 ROUND(AVG(s.total_price)) AS keskmine_hind
 FROM sales s
@@ -87,6 +87,7 @@ SELECT
  kogukäive - LAG(kogukäive) OVER (ORDER BY aasta) AS muutus,
  ROUND((kogukäive - LAG(kogukäive) OVER (ORDER BY aasta)) / LAG(kogukäive) OVER (ORDER BY aasta) * 100,2) AS kasvuprotsent
 FROM aastamüük;
+
 
 
 
