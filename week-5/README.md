@@ -9,7 +9,8 @@
 
 ### 📁 Individuaalne töö
 - [SQL päringud](week5_marketing_dashboard.sql)
-- [Turunduse Dashboard ja koondvaade](week5_images/marketing_dashboard.png)
+- [Turunduse Dashboard](week5_images/marketing_dashboard.png)
+- [Dashboard'i koondvaade](week5_images/dashboard_overview.png)
 
 
 ### ֎🇦🇮 kasutamine
