@@ -15,5 +15,6 @@
 
 ### ֎🇦🇮 kasutamine
 
--   
-- 
+- DAX valemite koostamine Power BI-s 
+- Visualiseerimisel tekkinud vigade parandamiseks
+- Täiendavate selgituste saamiseks diagrammide vormingu seadistuste kohta
