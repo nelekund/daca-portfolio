@@ -1,8 +1,8 @@
 # DACA Portfoolio
  
-**Programm:** Data Analyst Career Accelerator (DACA)
-**Osaleja:** Nele Kund
-**Algus:** 11.08.2026
+**Programm:** Data Analyst Career Accelerator (DACA)  
+**Osaleja:** Nele Kund  
+**Algus:** 11.08.2026  
  
 ## Kirjeldus
  
@@ -28,7 +28,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - **Visualiseerimine:** Power BI / Streamlit (tulemas...)
 - **Tööriistad:** Git, GitHub, VS Code
  
-## Kontaktc
+## Kontakt
  
 - **GitHub:** [github.com/nelekund](https://github.com/nelekund)
 - **Email:** kundnele@gmail.com
