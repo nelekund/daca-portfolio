@@ -1,6 +1,6 @@
 # Nädal 0 – Onboarding
 
-Nädal 0 grupitöö eesmärk oli isiklike töökeskkondade seadistamise järgselt luua ka **meeskonnale ühised tööriistad**.
+**Nädal 0** grupitöö eesmärk oli isiklike töökeskkondade seadistamise järgselt luua ka **meeskonnale ühised tööriistad**.
 
 **Meeskond:** Sales Analytics  
 **Roll:** B – NotebookLM + Team Charter   
@@ -9,6 +9,6 @@ Nädal 0 grupitöö eesmärk oli isiklike töökeskkondade seadistamise järgsel
 
 Lisaks leiad minu DACA alguse nädala kaustast veel:
 
-[Isikliku keskkonna screenshoti](individual/setup_screenshot.png)
+[Isikliku keskkonna screenshoti](individual/setup_screenshot.png)  
 [Kokkuvõtte minu tööülesannetest meeskonnas](team/week0_team_summary.md)
 
