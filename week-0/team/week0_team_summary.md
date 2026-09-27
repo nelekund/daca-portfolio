@@ -19,7 +19,7 @@ Lõin "**UrbanStyle -- Sales Analytics**" *notebooki*. See sisaldab **nelja RAG 
 
 ## 🤝 Team Charteri koostamine
 
-Team Charterit koostades ja täites arvestasin kogu meeskonna töötamise ja kommunikatsioonieelistustega. Charter sisaldab **tiimiliikmete infot**, **peamist suhtluskanalit**, **ühiste töökeskkondade asukohti** ning **kokkuleppeid**, kuidas toimime, kui keegi jääb hätta. Lisasime ka rollide rotatsiooni tabeli, et iga liikme järgmised sammud oleksid selgelt näha.
+Team Charter'it koostades ja täites arvestasin kogu meeskonna töötamise ja kommunikatsioonieelistustega. Charter sisaldab **tiimiliikmete infot**, **peamist suhtluskanalit**, **ühiste töökeskkondade asukohti** ning **kokkuleppeid**, kuidas toimime, kui keegi jääb hätta. Lisasime ka rollide rotatsiooni tabeli, et iga liikme järgmised sammud oleksid selgelt näha.
 
 ![Team Charter](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week0/images/gh_charter.jpg)
 
