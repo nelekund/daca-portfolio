@@ -9,6 +9,6 @@
 
 Lisaks leiad minu DACA alguse nädala kaustast veel:
 
-[Isikliku keskkonna screenshoti](individual/setup_screenshot.png)  
-[Kokkuvõtte minu tööülesannetest meeskonnas](team/week0_team_summary.md)
+- [Isikliku keskkonna screenshoti](individual/setup_screenshot.png)  
+- [Kokkuvõtte minu tööülesannetest meeskonnas](team/week0_team_summary.md)
 
