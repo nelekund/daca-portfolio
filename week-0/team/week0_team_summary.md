@@ -1,13 +1,13 @@
-# Meeskonnatöö kokkuvõte
+# 👥 Meeskonnatöö kokkuvõte
 
 <br>
 
-Sales Analytics tiimi liikmena tegelesin järgmiste ülesannetega:
+**Sales Analytics** tiimi liikmena tegelesin järgmiste ülesannetega:
 
-- Seadistasin meeskonnale ühise AI õppekeskkonna *Notebook*'is
-- Täitsin *Team Charter*'i malli ning sisestasin selle andmed meeskonna **Supabase**'i.
+💠 Seadistasin meeskonnale ühise AI õppekeskkonna *Notebook*'is
+💠 Täitsin *Team Charter*'i malli ning sisestasin selle andmed meeskonna **Supabase**'i.
 
-## Notebook-i seadistamine
+## 🗒️ Notebook-i seadistamine
 
 Lõin **UrbanStyle -- Sales Analytics** *notebooki*. See sisaldab nelja RAG faili UrbanStyle'i ettevõtte ärilooga. Lisaks genereerisin esimese Audio Overview ning testisin AI vastuseid üleslaetud failide põhjal.
 
@@ -17,7 +17,7 @@ Lõin **UrbanStyle -- Sales Analytics** *notebooki*. See sisaldab nelja RAG fail
 
 ![Genereeritud Audio Overview](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week0/images/nblm_ab.jpg)
 
-## Team Charteri koostamine
+## 🤝 Team Charteri koostamine
 
 Team Charterit koostades ja täites arvestasin kogu meeskonna töötamise ja kommunikatsioonieelistustega. Charter sisaldab tiimiliikmete infot, peamist suhtluskanalit, ühiste töökeskkondade asukohti ning kokkuleppeid, kuidas toimime, kui keegi jääb hätta. Lisasime ka rollide rotatsiooni tabeli, et iga liikme järgmised sammud oleksid selgelt näha.
 
