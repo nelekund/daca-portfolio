@@ -13,8 +13,10 @@ Minu ülesandeks oli arvutada iga kliendi **RFM skoorid** ning jagada kliendid s
 
 ### Peamised leiud
 
-⭐ UrbanStyle'il on tänu VIP Champions ja Loyal klientidele kokku üsna tugev kliendibaas, sest kokku moodustavad nad kogu kliendibaasist **peaaegu poole** (**45%**), mis toetab ettevõtte stabiilsust.   
+⭐ UrbanStyle'il on tänu VIP Champions ja Loyal klientidele kokku üsna tugev kliendibaas, sest kokku moodustavad nad kogu kliendibaasist **peaaegu poole** (**45%**), mis toetab ettevõtte stabiilsust.
+<br>   
 💡 Suurima osakaaluga segment on **Potential** segment, mis moodustab **30%** kliendibaasist. See osakaal näitab eelkõige seda, millisse hulga klientide puhul saab UrbanStyle potentsiaalselt müüki kasvatada, kui suunata just seda segmenti tihedamini oste tegema. 
+<br>
 ⚠️ At risk ja Lost moodustavad kokku **25%**. Tähelepanu vajab eelkõige **At risk** segment, et võita kliente tagasi, sest nende aktiivsus on langenud ja oht et nad liiguvad lost segmenti on suur.  
 <br>
 
