@@ -12,11 +12,11 @@
 
 ### Visualiseeringud
 
-![UrbanStyle-i nädalane müügitulu muutumine jaanuaris 2023]()
+![UrbanStyle-i nädalane müügitulu muutumine jaanuaris 2023](file:///C:/Users/user/Documents/DACA/daca-portfolio/week-8/individual/output/weekly_revenue_20261009_2023Jan.html)
 
 <br>
 
-![Kokkuvõtlik tabel peamiste KPI-dega jaanuaris 2023]()
+![Kokkuvõtlik tabel peamiste KPI-dega jaanuaris 2023](file:///C:/Users/user/Documents/DACA/daca-portfolio/week-8/individual/output/kpi_summary_20261009_2023Jan.html)
 
 ### Meeskonnatöö kokkuvõte
 
@@ -24,4 +24,4 @@ Ehitasime meeskonnatööna ettevõttele **UrbanStyle** üles automatiseeritud *p
 
 ### ֎🇦🇮 kasutamine
 
-Kasutasin ChatGPT-d **Plotly visualiseeringute** ning **CSV ja HTML failide eksportimise koodide loomiseks**. AI aitas iga koodi osa lahti mõtestada ning selgitada visualiseerimise kohta tekkivaid küsimusi ja analüüsida erinevaid lahenduskäike. Selle töö puhul oli AI abi väga kasulik, sest see toetas oluliselt töövoo kiirendamist. Kuna iga järgnev roll vajas teise meeskonnaliikme sisendit, oli kiirus tavapärasest pisut tähtsam, et grupikaaslased ei jääks pikalt teiste lahenduskäiku ootama.
+Kasutasin ChatGPT-d **Plotly visualiseeringute** ning **CSV ja HTML failide eksportimise koodide loomiseks**. AI aitas iga koodi osa lahti mõtestada ning selgitada visualiseerimise kohta tekkivaid küsimusi ja analüüsida erinevaid lahenduskäike. Selle töö puhul oli AI abi väga kasulik, sest see toetas oluliselt töövoo kiirendamist. Kuna iga järgnev roll vajas teise meeskonnaliikme sisendit, oli kiirus tavapärasest pisut tähtsam, et grupikaaslased ei jääks pikalt teiste lahenduskäiku ootama. 
