@@ -19,8 +19,8 @@
 
 ### Meeskonnatöö kokkuvõte
 
-Ehitasime meeskonnatööna ettevõttele **UrbanStyle** üles automatiseeritud *pipeline*-i, mis pärib müügi-, kliendi- ja tooteandmed Supabase API kaudu, puhastab need ja arvutab nädalased koondnäitajad ning peamised KPI-d. Töödeldud andmed salvestatakse CSV failina ja loodud diagrammid HTML failidena *output* kausta.
+Ehitasime meeskonnatööna ettevõttele **UrbanStyle** üles automatiseeritud *pipeline*-i, mis pärib müügi-, kliendi- ja tooteandmed **Supabase API kaudu**, puhastab need ja arvutab nädalased koondnäitajad ning peamised KPI-d. Töödeldud andmed salvestatakse CSV failina ja loodud diagrammid HTML failidena *output* kausta.
 
 ### ֎🇦🇮 kasutamine
 
-Kasutasin ChatGPT-d **Plotly visualiseeringute** ning **CSV ja HTML failide eksportimise koodide loomiseks**. AI aitas iga koodi osa lahti mõtestada ning selgitada visualiseerimise kohta tekkivaid küsimusi ja analüüsida erinevaid lahenduskäike. Selle töö puhul oli AI abi väga kasulik, sest see toetas oluliselt töövoo kiirendamist. Kuna iga järgnev roll vajas teise meeskonnaliikme sisendit, oli kiirus tavapärasest pisut tähtsam, et grupikaaslased ei jääks pikalt teiste lahenduskäiku ootama. 
+Kasutasin ChatGPT-d **Plotly visualiseeringute** ning **CSV ja HTML failide eksportimise koodide loomiseks**. AI aitas iga koodi osa **lahti mõtestada** ning **selgitada** visualiseerimise kohta tekkivaid küsimusi ja analüüsida erinevaid lahenduskäike. Selle töö puhul oli AI abi väga kasulik, sest see toetas oluliselt **töövoo kiirendamist**. Kuna iga järgnev roll vajas teise meeskonnaliikme sisendit, oli kiirus tavapärasest pisut tähtsam, et grupikaaslased ei jääks pikalt teiste lahenduskäiku ootama. 
