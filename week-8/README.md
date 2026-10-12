@@ -12,11 +12,13 @@
 
 ### Visualiseeringud
 
-![UrbanStyle-i nädalane müügitulu muutumine jaanuaris 2023](file:///C:/Users/user/Documents/DACA/daca-portfolio/week-8/individual/output/weekly_revenue_20261009_2023Jan.html)
+![UrbanStyle-i nädalane müügitulu muutumine jaanuaris 2023](https://nelekund.github.io/
+daca-portfolio/week-8/individual/output/weekly_revenue_20261009_2023Jan.html)
 
 <br>
 
-![Kokkuvõtlik tabel peamiste KPI-dega jaanuaris 2023](file:///C:/Users/user/Documents/DACA/daca-portfolio/week-8/individual/output/kpi_summary_20261009_2023Jan.html)
+![Kokkuvõtlik tabel peamiste KPI-dega jaanuaris 2023](https://nelekund.github.io/
+daca-portfolio/week-8/individual/output/kpi_summary_20261009_2023Jan)
 
 ### Meeskonnatöö kokkuvõte
 
