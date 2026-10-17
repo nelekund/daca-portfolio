@@ -37,6 +37,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 ✔ Tulemus: UrbanStyle'i tootekategooriate populaarsuse võrdlus kogumüügi ja müüdud koguse põhjal, müümata toodete arvu leidmine ja inventuuri soovitused.
 <br>
+<br>
 
 ### Week 4: SQL Aggregation
 - SQL `GROUP BY`,`HAVING` päringud, agregaatfunktsioonid, CTE, aknafunktsioonid (*window functions*)
