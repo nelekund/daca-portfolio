@@ -11,11 +11,11 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 ## Projektid
  
 ### Week 0: Onboarding
-- GitHub seadistamine ✅
-- Supabase seadistamine ✅
-- Notebook seadistamine ✅
-- Visual Studio Code seadistamine ✅
-- Python seadistamine ✅
+✅ GitHub seadistamine
+✅ Supabase seadistamine
+✅ Notebook seadistamine
+✅ Visual Studio Code seadistamine
+✅ Python seadistamine
 
 ✔ Tulemus: Valmis töökeskkonnad ja versioonihaldus, esimene ülevaade tulevaste projektidega seotud ettevõttest UrbanStyle.
 <br>
