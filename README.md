@@ -10,7 +10,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
  
 ## Projektid
  
-### Week 0: Onboarding
+### Week 0: [Onboarding](week-0/README.md)
 ✅ GitHub seadistamine  
 ✅ Supabase seadistamine  
 ✅ Notebook seadistamine  
@@ -64,7 +64,6 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 <br>
 
 ### Week 7: Python Pandas
-
 - pandas *DataFrame*-ide uurimine, CSV-de lugemine, andmete filtreerimine ja grupeerimine
 
 ✔ Tulemus: UrbanStyle-i kliendiandmetel põhinev RFM analüüs.
