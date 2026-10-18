@@ -49,7 +49,25 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 <br>
 <br>
 
-### Week 5: Visualization Design
+### Week 5: Visualisation Design
+- Õigete diagrammitüüpide valimine, dashboard-i paigutuse reeglid , silma liikumismustrid, *data ink ratio*
+
+✔ Tulemus: Ühe *stakeholder*-i dashboard + nelja erineva dashboardi koondvaade ehk investori dashboard.
+<br>
+<br>
+
+### Week 6: Visualisation Data
+- Andmelugude jutustamine, "ja mis siis?" küsimusele vastamine, diagrammi annotatsioonid, juhtide kokkuvõte - 30 sekundiline *pitch*
+
+✔ Tulemus: Nädal 5 loodud dashboardide viimistlus, UrbanStyle'i kaupluste interaktiivsed dashboardid andmelugudega.
+<br>
+<br>
+
+### Week 7: Python Pandas
+
+- pandas *DataFrame*-ide uurimine, CSV-de lugemine, andmete filtreerimine ja grupeerimine
+
+✔ Tulemus: UrbanStyle-i kliendiandmetel põhinev RFM analüüs.
  
 ## Oskused
  
