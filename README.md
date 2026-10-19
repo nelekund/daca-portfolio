@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nele Kund | Data Analytics Portfolio
+# Nele Kund | DACA Portfolio
 
 ### Andmetest selge suunani 🚀
 
