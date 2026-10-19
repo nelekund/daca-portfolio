@@ -1,87 +1,166 @@
-# DACA Portfoolio
- 
-**Programm:** Data Analyst Career Accelerator (DACA)  
-**Osaleja:** Nele Kund  
-**Algus:** 11.08.2026  
- 
-## Kirjeldus
- 
-See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
- 
+<div align="center">
+
+# Nele Kund | Data Analytics Portfolio
+
+### Andmetest selge suunani 🚀
+
+**Data Exploration · Business Intelligence · Data Storytelling**
+
+Tere tulemast minu andmeanalüüsi portfooliosse!
+
+Siin jagan oma teekonda andmeanalüüsi valdkonnas. Selle portfoolio ehitasin üles alates SQL-päringutest ja andmete puhastamisest kuni interaktiivsete dashboardide ja Pythoniga tehtud analüüsideni.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOOLIO-Vaata_veebilehte-7665C9?style=for-the-badge)](https://daca-portfolio-blue.vercel.app)
+[![Projects](https://img.shields.io/badge/📁_PROJECTS-Tutvu_projektidega-293B63?style=for-the-badge)](#-projektid)
+[![Contact](https://img.shields.io/badge/✉️_CONTACT-Kontakt-596579?style=for-the-badge)](#-kontakt)
+
+<br>
+
+📈 **Data Analyst Career Accelerator (DACA)**  
+📅 **Alates 11.08.2026**
+
+</div>
+
+---
+
+## Minust
+
+Olen alustav andmeanalüütik, kes arendab oma oskusi Data Analyst Career Accelerator (DACA) programmis.
+
+Mind huvitab andmeanalüüsi tervikprotsessina – analüüsiks usaldusväärse aluse loomiseks andmete töötlemisest kuni mustrite avastamise, visualiseerimise ja andmelugude jutustamiseni.Samuti olen juurde õppimas oskusi automatiseerimises, et vähendada korduvat käsitsi tehtavat tööd ning muuta andmetega töötamine kiiremaks ja tõhusamaks.
+
+Minu DACA portfoolio keskendub kolmele valdkonnale:
+
+- 🔍 **Data Analysis** – andmete uurimine, puhastamine ja analüüsimine
+- 🖼️ **Data Visualization** – dashboardid, KPI-d ja visuaalne andmelugu
+- 🤝 **Business Insights** – tulemuste tõlgendamine ja äriliste otsuste toetamine
+
+---
+
+## Tehnoloogiad ja tööriistad
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+
+</div>
+
+| Valdkond | Oskused |
+|---|---|
+| **Data Analysis** | SQL, pandas, Data Cleaning, RFM |
+| **Databases** | PostgreSQL, Supabase |
+| **Data Visualization** | Power BI, Dashboard Design |
+| **Business Intelligence** | KPI Analysis, Data Storytelling |
+| **Development Tools** | Git, GitHub, VS Code, Jupyter Notebook |
+
+---
+
 ## Projektid
- 
-### Week 0: [Onboarding](week-0/README.md)
-✅ GitHub seadistamine  
-✅ Supabase seadistamine  
-✅ Notebook seadistamine  
-✅ Visual Studio Code seadistamine  
-✅ Python seadistamine  
 
-✔ Tulemus: Valmis töökeskkonnad ja versioonihaldus, esimene ülevaade tulevaste projektidega seotud ettevõttest UrbanStyle.
-<br>
-<br>
+Minu DACA projektid põhinevad fiktiivse **UrbanStyle'i jaekaubandusettevõtte andmetel** ning käsitlevad ärilisi probleeme, millega ettevõte kiire kasvu tõttu silmitsi seisab.
 
-### Week 1: SQL Basics
-- SQL `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` päringud
+### 🛢️ SQL | Data Exploration & Analysis
 
-✔ Tulemus: Müügitabeli esimene raport andmete üldise seisuga (read, veerud, puuduvad väärtused veergudes)
-<br>
-<br>
+| Nädal | Projekt | Tulemus |
+|---|---|---|
+| [Week 0](week-0/) | Onboarding | Analüüsikeskkonna seadistamine |
+| [Week 1](week-1/) | SQL Basics | Müügiandmete esmane ülevaade |
+| [Week 2](week-2/) | SQL Cleaning | Kliendiandmete kvaliteedianalüüs |
+| [Week 3](week-3/) | SQL JOINs | Tootekategooriate ja laoseisu analüüs |
+| [Week 4](week-4/) | SQL Aggregation | Käibekasvu ja müügitrendide analüüs |
 
-### Week 2: SQL Cleaning
-- SQL `DELETE`, `UPDATE`, `CREATE TABLE AS`, `CASE WHEN` päringud, test copy, deleting duplicates
+### 🖼️ Power BI | Visualization & Storytelling
 
-✔ Tulemus: Kliendiandmete tabelist leitud duplikaatsed meiliaadresside, ebajärjekindlate linnanimede ning puuduvate meiliaadresside arv. Soovitused antud ka järgnevate tegevuste planeerimiseks.
-<br>
-<br>
+| Nädal | Projekt | Tulemus |
+|---|---|---|
+| [Week 5](week-5/) | Visualization Design | Sidusrühmade ja investori dashboardid |
+| [Week 6](week-6/) | Data Storytelling | Interaktiivsed dashboardid ja ärijäreldused |
 
-### Week 3: SQL JOIN-s
-- SQL `INNER JOIN`, `LEFT JOIN`, `LEFT JOIN` + `WHERE IS NULL` päringud
+### 🐍 Python | Data Analytics
 
-✔ Tulemus: UrbanStyle'i tootekategooriate populaarsuse võrdlus kogumüügi ja müüdud koguse põhjal, müümata toodete arvu leidmine ja inventuuri soovitused.
-<br>
-<br>
+| Nädal | Projekt | Tulemus |
+|---|---|---|
+| [Week 7](week-7/) | Python pandas | Klientide RFM-analüüs |
 
-### Week 4: SQL Aggregation
-- SQL `GROUP BY`,`HAVING` päringud, agregaatfunktsioonid, CTE, aknafunktsioonid (*window functions*)
+### 📚 Järgmised õppeprojektid
 
-✔ Tulemus: Müügistatistika raport: UrbanStyle'i käibekasvu võrdlus kahe aasta põhjal, kasvuprotsentide leidmine, kuised trendid, tähelepanekud.
-<br>
-<br>
+- [Week 8](week-8/) — projekti kirjeldus täiendamisel
+- [Week 9](week-9/) — projekti kirjeldus täiendamisel
 
-### Week 5: Visualisation Design
-- Õigete diagrammitüüpide valimine, dashboard-i paigutuse reeglid , silma liikumismustrid, *data ink ratio*
+---
 
-✔ Tulemus: Ühe *stakeholder*-i dashboard + nelja erineva dashboardi koondvaade ehk investori dashboard.
-<br>
-<br>
+## Esiletõstetud projektid
 
-### Week 6: Visualisation Data
-- Andmelugude jutustamine, "ja mis siis?" küsimusele vastamine, diagrammi annotatsioonid, juhtide kokkuvõte - 30 sekundiline *pitch*
+### 📈 UrbanStyle | Sales Performance Analysis
 
-✔ Tulemus: Nädal 5 loodud dashboardide viimistlus, UrbanStyle'i kaupluste interaktiivsed dashboardid andmelugudega.
-<br>
-<br>
+**SQL · PostgreSQL · Business Analytics**
 
-### Week 7: Python Pandas
-- pandas *DataFrame*-ide uurimine, CSV-de lugemine, andmete filtreerimine ja grupeerimine
+UrbanStyle'i müügitulemuste analüüs, mille eesmärk oli hinnata käibekasvu, tuvastada müügitrende ning võrrelda tootekategooriate tulemuslikkust.
 
-✔ Tulemus: UrbanStyle-i kliendiandmetel põhinev RFM analüüs.
- 
-## Oskused
- 
-- **SQL:** PostgreSQL, Supabase
-- **Python:** pandas, plotly (tulemas...)
-- **Visualiseerimine:** Power BI Dashboards
-- **Tööriistad:** Git, GitHub, VS Code
- 
-## Kontakt
- 
-- **GitHub:** [github.com/nelekund](https://github.com/nelekund)
-- **Email:** kundnele@gmail.com
+**Analüüsi fookus:**
+- Kahe aasta käibekasvu võrdlus
+- Kuise müügidünaamika analüüs
+- Tootekategooriate populaarsus
+- Müümata toodete tuvastamine
+
+🔗 **[Tutvu SQL-projektidega](week-4/)**
+
+### 📶 UrbanStyle | Interactive Dashboards
+
+**Power BI · Dashboard Design · Data Storytelling**
+
+Erinevatele *stakeholder*-itele mõeldud dashboardid, mis aitavad mõista, kuidas UrbanStyle'il müügitulemuste osas läheb ning toetada edaspidiseid andmepõhiseid otsuseid.
+
+**Projekti fookus:**
+- KPI-de visualiseerimine
+- *Stakeholder*-ite vajadustest lähtuv visuaal
+- Interaktiivsed vaated
+- Andmelood ja ärilised järeldused
+
+🔗 **[Tutvu dashboardi projektiga](week-6/)**
+
+### 🐍 UrbanStyle | Customer RFM Analysis
+
+**Python · pandas · Customer Analytics**
+
+UrbanStyle'i klientide ostukäitumise analüüs RFM-meetodil.
+
+**Analüüsi fookus:**
+- Recency – kui hiljuti ostis?
+- Frequency – kui tihti ostab?
+- Monetary – kui palju kulutab?
+
+🔗 **[Tutvu RFM-projektiga](week-7/)**
+
+---
+
+## Minu õpiteekond
+
+DACA programmi jooksul olen arendanud nii tehnilisi oskusi kui ka analüütilist mõtlemist.
+
+Suurimad õppetunnid ei ole hõlmanud minu jaoks olnud ainult tehnilist koodi kirjutamist või diagrammide loomist, vaid oluline on olnud mõista:
+
+**Millisele küsimusele me tegelikult vastust otsime?**  
+**Mida andmed näitavad?**  
+**Mida on võimalik teadmistega edasi teha?**
+
+---
+
+## 📩 Kontakt
+
+<div align="center">
 
 
 
-
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-293B63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelekund)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelekund)
+[![Email](https://img.shields.io/badge/Email-7665C9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundnele@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-336791?style=for-the-badge&logo=googlechrome&logoColor=white)](https://daca-portfolio-blue.vercel.app)
