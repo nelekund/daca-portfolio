@@ -19,7 +19,7 @@ Siin jagan oma teekonda andmeanalüüsi valdkonnas. Selle portfoolio ehitasin ü
 <br>
 
 📈 **Data Analyst Career Accelerator (DACA)**  
-📅 **Alates 11.08.2026**
+📅 **Algus: 11.08.2026**
 
 </div>
 
