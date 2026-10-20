@@ -144,7 +144,7 @@ UrbanStyle'i klientide ostukäitumise analüüs RFM-meetodil.
 
 DACA programmi jooksul olen arendanud nii tehnilisi oskusi kui ka analüütilist mõtlemist.
 
-Suurimad õppetunnid ei ole hõlmanud minu jaoks olnud ainult tehnilist koodi kirjutamist või diagrammide loomist, vaid oluline on olnud mõista:
+Suurimad õppetunnid ei ole minu jaoks olnud ainult tehnilise koodi kirjutamine või diagrammide loomine, vaid oluline on olnud mõista:
 
 **Millisele küsimusele me tegelikult vastust otsime?**  
 **Mida andmed näitavad?**  
