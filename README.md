@@ -4,8 +4,6 @@
 
 ### Andmetest selge suunani 🚀
 
-**Data Exploration · Business Intelligence · Data Storytelling**
-
 Tere tulemast minu andmeanalüüsi portfooliosse!
 
 Siin jagan oma teekonda andmeanalüüsi valdkonnas. Selle portfoolio ehitasin üles alates SQL-päringutest ja andmete puhastamisest kuni interaktiivsete dashboardide ja Pythoniga tehtud analüüsideni.
