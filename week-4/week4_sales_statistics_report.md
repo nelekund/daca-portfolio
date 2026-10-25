@@ -3,9 +3,9 @@
 
 | Näitaja | 2023 | 2024 | Kasvuprotsent (%)|
 | :---: | :---: | :---: | :---: |
-| **Aastane kogukäive** | **1 234 758.90 €** | **1 470 358.02 €** | **+19.1%** ⬆️|
-| **Parim müügikuu** | Detsember (**129.1k €**) | Detsember (**170.6k €**) | **+32.2%** 🎄|
-| **Halvim müügikuu** | Jaanuar (**79 735.03 €**) | Jaanuar (**85 618.65 €**) | **+7.4%** ☃️|
+| **Aastane kogukäive** | **1,2 mln €** | **1,47 mln €** | **+19%** ⬆️|
+| **Parim müügikuu** | Detsember (**129,1k €**) | Detsember (**170,6k €**) | **+32%** 🎄|
+| **Halvim müügikuu** | Jaanuar (**79,7 tuh €**) | Jaanuar (**85,6 tuh €**) | **+7%** ☃️|
 
 <br>
 <br>
