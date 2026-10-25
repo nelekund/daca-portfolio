@@ -1,4 +1,4 @@
-# Nädal 7: Python Pandas
+# Week 7: Python Pandas
 
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics    

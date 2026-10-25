@@ -1,4 +1,4 @@
-# Nädal 5: Visualisation Data
+# Week 5: Visualisation Data
 
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics    

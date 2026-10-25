@@ -1,8 +1,8 @@
-# Nädal 9: Career Preparation
+# Week 9: Career Preparation
 
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics      
-**Roll:** A + D – HR/Hiring Manager + Team Leader view for recruitment guide
+**Roll:** A + D – HR/Hiring Manager + Team Leader view for recruitment guide  
 **Link grupitööle:** [Sales Analytics Week 9](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week9/README.md)
 <br>
 

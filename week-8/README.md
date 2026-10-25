@@ -1,4 +1,4 @@
-# Nädal 8: Python APIs
+# Week 8: Python APIs
 
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics      
