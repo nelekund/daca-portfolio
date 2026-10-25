@@ -1,4 +1,4 @@
-# Nädal 4: SQL Aggregation
+# Week 4: SQL Aggregation
 
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics    

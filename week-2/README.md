@@ -1,4 +1,4 @@
-# Nädal 2: SQL Cleaning
+# Week 2: SQL Cleaning
 
 ## ⚙️ Kliendiandmete puhastamine
 

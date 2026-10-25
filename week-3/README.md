@@ -1,4 +1,4 @@
-# Nädal 3: SQL JOINs
+# Week 3: SQL JOINs
 
 ### 📝 Ülesanne: Aidata vastata Urbanstyle ettevõtte ärilistele küsimustele, mis nõuavad mitme andmetabeli omavahel ühendamist.
 

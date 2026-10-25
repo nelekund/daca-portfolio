@@ -1,4 +1,4 @@
-# Nädal 1: SQL Basics
+# Week 1: SQL Basics
 ## 📊 Sales Data Explorer
 
 **Meeskond:** Sales Analytics  

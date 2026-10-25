@@ -1,4 +1,4 @@
-# Nädal 5: Visualisation Design
+# Week 5: Visualisation Design
 
 **Nimi:** Nele Kund   
 **Meeskond:** Sales Analytics    

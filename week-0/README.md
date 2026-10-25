@@ -1,4 +1,4 @@
-# Nädal 0 – Onboarding
+# Week 0 – Onboarding
 
 **Meeskond:** Sales Analytics  
 **Roll:** B – NotebookLM + Team Charter   
