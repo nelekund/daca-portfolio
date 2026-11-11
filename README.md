@@ -4,7 +4,7 @@
 
 Tere tulemast minu andmeanalüüsi portfooliosse!
 
-Siin jagan oma DACA programmi andmeanalüüsiga seotud projekte nädalate kaupa. DACA portfoolio olen üles ehitanud alates SQL-päringutest ja andmete puhastamisest kuni interaktiivsete dashboardide ja Pythoniga tehtud analüüsideni.
+Siin jagan oma andmeanalüüsiga seotud projekte nädalate kaupa. DACA portfoolio olen üles ehitanud alates SQL-päringutest ja andmete puhastamisest kuni interaktiivsete dashboardide ja Pythoniga tehtud analüüsideni.
 
 <br>
 
