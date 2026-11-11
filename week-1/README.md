@@ -8,7 +8,7 @@
 
 ## Probleem
 
-Jaekaubandusettevõtet UrbanStyle iseloomustab **ülikiire kasv**. Neil on olemas mahukad andmed **müükide, klientide, toodete** kohta, kuid neid pole seni põhjalikult analüüsitud. Et aga saada ettevõtte tegelikest olukorrast ülevaade, peame esmalt nägema, **millises seisus on andmed**.
+Jaekaubandusettevõtet UrbanStyle iseloomustab **ülikiire kasv**. Neil on olemas mahukad andmed **müükide, klientide, toodete** kohta, kuid neid pole seni põhjalikult analüüsitud. Et aga saada ettevõtte tegelikest olukorrast ülevaade, pidime esmalt nägema, **millises seisus on andmed**.
 
 ## 1. Ridade arv sales tabelis
 
