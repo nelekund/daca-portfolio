@@ -6,6 +6,10 @@
 **Andmeallikad:** `sales`, `customers` tabelid (Supabase)  
 **Link grupitööle:** [GitHub Sales Analytics Week 5](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week5/README.md)
 
+## Probleem 
+
+Sidusrühmad vajavad samade andmete põhjal erinevaid juhtimislaudasid. Minu ülesanne meeskonnas oli turundustiimi vaatest keskenduda müügikanalitele ja nende efektiivsusele. Samuti tuli mul kokku panna koondvaade, mis kajastab iga sidusrühma jaoks olulist infot.
+
 ## Turunduse Dashboard
 
 ![Turunduse Dashboard](week5_images/marketing_dashboard.png)
