@@ -1,5 +1,4 @@
 # Week 1: SQL Basics
-## 📊 Sales Data Explorer
 
 **Meeskond:** Sales Analytics  
 **Roll:** A – Sales Data Explorer  
