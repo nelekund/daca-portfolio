@@ -6,13 +6,50 @@
 **Andmeallikad:** `sales`, `products` tabelid (Supabase)  
 **Link grupitööle:** [GitHub Sales Analytics Week 4](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week4/README.md)
 
+## Probleem
 
-### 📁 Individuaalne töö
+Ettevõttel puudub info müügitrendide kohta. Analüüsides müügiandmeid kuude lõikes ning võrreldes kasvuprotsente aastate vahel, saab hea esmase ülevaate, kuidas müükidega tegelikult läheb ning leida parimad ja halvimad müügikuud. Kui on teada, millistel kuudes läheb hästi ja millistel kehvemini, saab turundustiim planeerida kampaaniaid vastavalt trendidele, et suurendada käivet ka nõrgematel perioodidel.
+
+
+## 📁 Individuaalne töö
+
 - [SQL päringud](week4_sales_aggregation.sql)
-- [Müügistatistika raport ja kokkuvõte](week4_sales_statistics_report.md)
 
+## 📈 Müügistatistika raport ja kokkuvõte
 
-### ֎🇦🇮 kasutamine
+### Ettevõtte käibekasvu võrdlus
+<br>
+
+| Näitaja | 2023 | 2024 | Kasvuprotsent (%)|
+| :---: | :---: | :---: | :---: |
+| **Aastane kogukäive** | **1,2 mln €** | **1,47 mln €** | **+19%** ⬆️|
+| **Parim müügikuu** | Detsember (**129,1k €**) | Detsember (**170,6k €**) | **+32%** 🎄|
+| **Halvim müügikuu** | Jaanuar (**79,7 tuh €**) | Jaanuar (**85,6 tuh €**) | **+7%** ☃️|
+
+<br>
+<br>
+
+### UrbanStyle'i käibe kasvuprotsendid vahemikus 2023-2024
+<br>
+
+![Käibe muutus 2023-2024](images/SQL_week4_CTE_window.png) 
+
+## 📌 Tähelepanekud
+
+📊 Aastane käibekasv on **19.1%** (2023 → 2024) ehk **+235 599 €** võrreldes 2023. aastaga *(1,23 mln € → 1,47 mln €)*.    
+<br>
+📅 Andmed viitavad hooajalistele käibekõikumistele, mis on sarnased **mõlema aasta puhul**:
+
+- Müügid kasvavad varakevadel, suve alguses ja aasta lõpus   
+- Septembrikuud on olnud võrreldes suvekuudega nõrgemad, kuid kuukäive suurenes siiski ~96 tuhandelt eurolt ~109 tuhande eurole   
+
+🏷️ **UrbanStyle**'i müügiandmed näitavad kahe uuritud aasta põhjal selget kasvu. Isegi kui sügise alguses ja jaanuaris on müüginumbrid võrreldes suve ja aasta lõpuga väiksemad, on näha, et ka nõrgemate kuude puhul on käive võrreldes 2023. aastaga kasvanud.
+<br>
+Hooajalisi mustreid annab edaspidi kasutada järgmiste aastate numbrite prognoosimisel, kuid täpsemate prognooside tegemiseks tuleks võrrelda rohkemate aastate müügiandmeid.
+
+<br>
+
+## ֎🇦🇮 kasutamine
 
 - Kasutasin ChatGPT abi LAG() *window* funktsiooni selgituse ja kasutamisvõimaluste osas.  
 - Lisaks kasutasin AI-d kiiremaks *Markdown* formaadis tabeli genereerimiseks GitHub-i ning esialgselt müügiandmete põhjal tehtud järelduste sõnastuse parandamiseks.
