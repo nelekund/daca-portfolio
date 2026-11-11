@@ -2,8 +2,6 @@
 
 # Nele Kund | DACA Portfolio
 
-### Andmetest selge suunani 🚀
-
 Tere tulemast minu andmeanalüüsi portfooliosse!
 
 Siin jagan oma teekonda andmeanalüüsi valdkonnas. Selle portfoolio ehitasin üles alates SQL-päringutest ja andmete puhastamisest kuni interaktiivsete dashboardide ja Pythoniga tehtud analüüsideni.
@@ -25,9 +23,7 @@ Siin jagan oma teekonda andmeanalüüsi valdkonnas. Selle portfoolio ehitasin ü
 
 ## Minust
 
-Olen alustav andmeanalüütik, kes arendab oma oskusi Data Analyst Career Accelerator (DACA) programmis.
-
-Mind huvitab andmeanalüüsi tervikprotsessina – analüüsiks usaldusväärse aluse loomiseks andmete töötlemisest kuni mustrite avastamise, visualiseerimise ja andmelugude jutustamiseni.Samuti olen juurde õppimas oskusi automatiseerimises, et vähendada korduvat käsitsi tehtavat tööd ning muuta andmetega töötamine kiiremaks ja tõhusamaks.
+Mind huvitab andmeanalüüsi tervikprotsess – andmete töötlemine usaldusväärseks analüüsimiseks, mustrite avastamine ning visualiseerimine andmeloo esitlemiseks. Samuti olen juurde õppimas oskusi automatiseerimises, et vähendada korduvat käsitsi tehtavat tööd ning muuta andmetega töötamine kiiremaks ja tõhusamaks.
 
 Minu DACA portfoolio keskendub kolmele valdkonnale:
 
