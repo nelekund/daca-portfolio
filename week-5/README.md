@@ -18,10 +18,10 @@ Sidusrühmad vajavad samade andmete põhjal erinevaid juhtimislaudasid. Minu ül
 
 ![Dashboard'i koondvaade](week5_images/dashboard_overview.png)
 
-### 📁 Individuaalne töö
+## 📁 Individuaalne töö
 - [SQL päringud](week5_marketing_dashboard.sql)
 
-### ֎🇦🇮 kasutamine
+## ֎🇦🇮 kasutamine
 
 - DAX valemite koostamine Power BI-s 
 - Visualiseerimisel tekkinud vigade parandamiseks
