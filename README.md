@@ -8,7 +8,7 @@ Siin jagan oma andmeanalüüsiga seotud projekte nädalate kaupa. DACA portfooli
 
 <br>
 
-[![Projects](https://img.shields.io/badge/📁_PROJECTS-Tutvu_projektidega-293B63?style=for-the-badge)](#-projektid)
+[![Projects](https://img.shields.io/badge/📁_PROJECTS-Tutvu_projektidega-293B63?style=for-the-badge)](#projektid)
 
 <br>
 
