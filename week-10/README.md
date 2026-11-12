@@ -1,9 +1,9 @@
 # Week 10: Portfolio Presentation
 
-Nimi: Nele Kund
-Meeskond: Sales Analytics  
-Roll: SQL & Data Processing
-Grupitöö link: [Sales Analytics Week 10](https://andres-assukyll.github.io/urbanstyle-sales-analytics/week10/)
+**Nimi**: Nele Kund  
+**Meeskond**: Sales Analytics  
+**Roll**: SQL & Data Processing
+**Link grupitööle**: [Sales Analytics Week 10](https://andres-assukyll.github.io/urbanstyle-sales-analytics/week10/)
 
 ## Probleem
 
@@ -12,6 +12,16 @@ Meeskonnal oli vaja esitada 10 nädala töö tulemusi SQL-i, Pythoni ja visualis
 ## Alaülesande kirjeldus ja minu panus
 
 Minu 10. nädala meeskonnatöö koosnes SQL-i abil UrbanStyle'i andmetest tähtsaimate avastuste kokkuvõtmisest. Samuti panustasin andmete visualiseerimise võimaluste leidmisesse.
+
+### 🛢️ SQL-i peamised leiud
+
+![Andmekvaliteet](images/SQL_data.png)
+
+![Kliendid](images/SQL_customers.png)
+
+![Üldine trend](images/SQL_trends.png)
+
+<br>
 
 [Vaata meie kokkuvõtvat esitlust](https://andres-assukyll.github.io/urbanstyle-sales-analytics/week10/), et tutvuda müügiandmete analüüsi tiimi 10-nädalase töö olulisemate avastustega.
 
