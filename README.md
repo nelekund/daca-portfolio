@@ -75,7 +75,7 @@ Minu DACA projektid põhinevad fiktiivse **UrbanStyle'i jaekaubandusettevõtte a
 
 | Nädal | Projekt | Tulemus |
 |---|---|---|
-| [Week 5](week-5/) | Visualization Design | Sidusrühmade ja investori dashboardid |
+| [Week 5](week-5/) | Visualization Design | Sidusrühmade ja investori juhtimislauad |
 | [Week 6](week-6/) | Data Storytelling | Interaktiivsed dashboardid ja ärijäreldused |
 
 ### 🐍 Python | Data Analytics
@@ -83,11 +83,14 @@ Minu DACA projektid põhinevad fiktiivse **UrbanStyle'i jaekaubandusettevõtte a
 | Nädal | Projekt | Tulemus |
 |---|---|---|
 | [Week 7](week-7/) | Python pandas | Klientide RFM-analüüs |
+| [Week 8](week-8/) | Python APIs | Tiimitööna automatiseeritud müügianalüüs, Plotly visualiseeringud ja tulemuste eksport |
 
-### 📚 Järgmised õppeprojektid
+### 🚀 Career | Portfolio Presentation
 
-- [Week 8](week-8/) — projekti kirjeldus täiendamisel
-- [Week 9](week-9/) — projekti kirjeldus täiendamisel
+| Nädal | Projekt | Tulemus |
+|---|---|---|
+| [Week 9](week-9/) | Career Preparation | Värbamisjuhendi koostamine |
+| [Week 10](week-10/) | Portfolio Presentation | Analüüsitulemuste koondamine ja meeskonna lõpuprojekt | 
 
 ---
 
@@ -100,8 +103,9 @@ Minu DACA projektid põhinevad fiktiivse **UrbanStyle'i jaekaubandusettevõtte a
 UrbanStyle'i müügitulemuste analüüs, mille eesmärk oli hinnata käibekasvu, tuvastada müügitrende ning võrrelda tootekategooriate tulemuslikkust.
 
 **Analüüsi fookus:**
+
 - Kahe aasta käibekasvu võrdlus
-- Kuise müügidünaamika analüüs
+- Kuust-kuusse kasvuprotsendid ja müügitrendid
 - Tootekategooriate populaarsus
 - Müümata toodete tuvastamine
 
@@ -111,11 +115,12 @@ UrbanStyle'i müügitulemuste analüüs, mille eesmärk oli hinnata käibekasvu,
 
 **Power BI · Dashboard Design · Data Storytelling**
 
-Erinevatele *stakeholder*-itele mõeldud dashboardid, mis aitavad mõista, kuidas UrbanStyle'il müügitulemuste osas läheb ning toetada edaspidiseid andmepõhiseid otsuseid.
+Erinevatele sidusrühmadele mõeldud juhtimislauad, mis aitavad mõista, kuidas UrbanStyle'il müügitulemuste osas läheb ning toetada edaspidiseid andmepõhiseid otsuseid.
 
 **Projekti fookus:**
+
 - KPI-de visualiseerimine
-- *Stakeholder*-ite vajadustest lähtuv visuaal
+- Sidusrühmade vajadustest lähtuv visuaal
 - Interaktiivsed vaated
 - Andmelood ja ärilised järeldused
 
@@ -128,6 +133,7 @@ Erinevatele *stakeholder*-itele mõeldud dashboardid, mis aitavad mõista, kuida
 UrbanStyle'i klientide ostukäitumise analüüs RFM-meetodil.
 
 **Analüüsi fookus:**
+
 - Recency – kui hiljuti ostis?
 - Frequency – kui tihti ostab?
 - Monetary – kui palju kulutab?
