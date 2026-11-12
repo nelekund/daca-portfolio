@@ -8,9 +8,7 @@ Siin jagan oma andmeanalüüsiga seotud projekte nädalate kaupa. DACA portfooli
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOOLIO-Vaata_veebilehte-7665C9?style=for-the-badge)](https://daca-portfolio-blue.vercel.app)
 [![Projects](https://img.shields.io/badge/📁_PROJECTS-Tutvu_projektidega-293B63?style=for-the-badge)](#-projektid)
-[![Contact](https://img.shields.io/badge/✉️_CONTACT-Kontakt-596579?style=for-the-badge)](#-kontakt)
 
 <br>
 
@@ -158,9 +156,7 @@ Suurimad õppetunnid ei ole minu jaoks olnud ainult tehnilise koodi kirjutamine 
 
 <div align="center">
 
+<br> 
 
-
-[![GitHub](https://img.shields.io/badge/GitHub-293B63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nelekund)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelekund)
 [![Email](https://img.shields.io/badge/Email-7665C9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundnele@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-336791?style=for-the-badge&logo=googlechrome&logoColor=white)](https://daca-portfolio-blue.vercel.app)
