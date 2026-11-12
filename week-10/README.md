@@ -2,7 +2,7 @@
 
 **Nimi**: Nele Kund  
 **Meeskond**: Sales Analytics  
-**Roll**: SQL & Data Processing
+**Roll**: SQL & Data Processing  
 **Link grupitööle**: [Sales Analytics Week 10](https://andres-assukyll.github.io/urbanstyle-sales-analytics/week10/)
 
 ## Probleem
