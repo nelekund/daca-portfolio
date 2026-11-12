@@ -6,7 +6,11 @@
 **Link grupitööle:** [Sales Analytics Week 9](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week9/README.md)
 <br>
 
-## Alaülesannete kirjeldus ja minu panus
+## Probleem
+
+Pärast 8. nädalat tekkis UrbanStyle'il väljakutse uute analüütikute värbamisprotsessis. Ettevõte vajas praktilist hindamisjuhendit, mis arvestaks iga osapoole ootustega analüütiku kandidaadi osas. Antud probleemi lahendamise mõte oli mõista ka seda, kas minu enda õpitud oskused vastavad kandidaadile esitatud nõuetele, mida värbamisjuhendis kirjeldan. Protsess aitab näha värbamist teisest vaatenurgast ning mõista paremini tööandjate ootusi.
+
+## Minu panus meeskonnatöösse
 
 Minu tööülesandeks meeskonnas oli luua **2 erinevat värbamisjuhendi osa**: **palkamisjuhi** (Hiring Manager) vaade ning **tiimijuhi** (Team Leader) vaade. 
 
