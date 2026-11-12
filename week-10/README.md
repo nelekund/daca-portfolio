@@ -18,4 +18,3 @@ Minu 10. nädala meeskonnatöö koosnes SQL-i abil UrbanStyle'i andmetest tähts
 ### ֎🇦🇮 kasutamine
 
 Kasutasin NotebookLM-i, et kontrollida ja saada tagasisidet kokkupandud SQL-i osa esitamise struktuurile. Lisaks aitas ChatGPT disainida minu sisendi järgi sobiva veebilehe.
-
