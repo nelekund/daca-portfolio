@@ -25,7 +25,7 @@ Ettevõttel puudub ülevaade klientide ostukäitumisest. Kuna kõik kliendid pol
 
 Jagasin **RFM skooride** abil UrbanStyle'i kliendid **5** erinevasse gruppi. Segmenteerimisse kaasasin vastavalt meeskonnaliikme puhastatud andmetabelile kokku **2540** unikaalset klienti. Vaatasin skoori koostamisel seda, kui hiljuti, kui tihti ja millises summas on UrbanStyle'i kliendid oste teinud. RFM segmenteerimise järgselt lõin tootejuht Markole [kliendiandmetega RFM csv faili](https://github.com/nelekund/daca-portfolio/blob/main/week-7/individual/rfm.csv), mida edasiselt klientidega kontakteerumisel kasutada saab.
 
-🔎 [Vaata analüüsi tulemusi ja koodi lähemalt Notebook failist](individual/_rfm_role_C.ipynb)
+🔎 [Vaata analüüsi tulemusi ja koodi lähemalt Notebook failist](individual/week7_rfm_role_C.ipynb)
 
 ## ֎🇦🇮 kasutamine
 
