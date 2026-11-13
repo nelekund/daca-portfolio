@@ -63,7 +63,7 @@ Minu DACA projektid põhinevad fiktiivse **UrbanStyle'i jaekaubandusettevõtte a
 
 | Nädal | Projekt | Tulemus |
 |---|---|---|
-| [Week 0](week-0/) | Onboarding | Analüüsikeskkonna seadistamine |
+| [Week 0](week-0/) | Onboarding | Analüüsikeskkondade seadistamine |
 | [Week 1](week-1/) | SQL Basics | Müügiandmete esmane ülevaade |
 | [Week 2](week-2/) | SQL Cleaning | Kliendiandmete kvaliteedianalüüs |
 | [Week 3](week-3/) | SQL JOINs | Tootekategooriate ja laoseisu analüüs |
