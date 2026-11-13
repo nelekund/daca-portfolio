@@ -124,6 +124,13 @@ Erinevatele sidusrühmadele mõeldud juhtimislauad, mis aitavad mõista, kuidas 
 
 🔗 **[Tutvu dashboardi projektiga](week-6/)**
 
+<br>
+
+**📍Tallinna pood | Populaarseima müügiasukoha andmelugu**
+
+![Tallinna pood](week-6/week6_images/Tallinn_store_dashboard.png)
+
+
 ### 🐍 UrbanStyle | Customer RFM Analysis
 
 **Python · pandas · Customer Analytics**
